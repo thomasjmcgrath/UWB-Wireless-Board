@@ -16,8 +16,8 @@ Board with wireless and UWB capabilities
 ![UWB-Wireless-Board Schematic extra](images/schematic_extra.PNG "extra Schematic")
 
 ## Finished Image of Previous Revision
-![UWB-Wireless-Board Image](images/prevrevision1.PNG Image1")
-![UWB-Wireless-Board Image](images/previousrevision2.PNG.PNG Image2")
+![UWB-Wireless-Board Image1](images/prevrevision1.PNG Image1")
+![UWB-Wireless-Board Image2](images/previousrevision2.PNG Image2")
 
 ## Curent Revision
 PCB shipment coming soon ordered from JLC PCB
